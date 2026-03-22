@@ -188,7 +188,7 @@ AI uses gerunds to fake depth without making a real claim. Replace with a direct
 
 ## Banned: Style Issues
 
-- **Em dashes** — replace with a period, comma, or restructure the sentence.
+- **Em dashes**: never use them. Replace with a comma, period, colon, semicolon, or parentheses (whichever fits the syntax). If none fit cleanly, restructure the sentence.
 - **Excessive bold** — bold is for navigation, not emphasis. If everything is bold, nothing is.
 - **Inline-header lists** — "Voice: The writing should sound human." Rewrite as prose.
 - **Title Case In Every Heading** — use sentence case.
